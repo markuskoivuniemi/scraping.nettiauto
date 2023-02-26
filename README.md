@@ -1,5 +1,5 @@
-# scraping.nettiauto
+# Jupyter notebooks:
 
-# Scrapes nettiauto.com for preconfigured EV car models.
+## scrape_data: Scrapes nettiauto.com for preconfigured EV car models.
 
-# Visualize price development over time for these models
+## visualize_data: Plot price development over time for these models
